@@ -11,4 +11,4 @@
      
      
     
-Note: The code is taken from the internet and other sources. And I modified it acoording to my requirements.
+Note: The code is taken from the internet and other sources. And I modified it according to my requirements.
