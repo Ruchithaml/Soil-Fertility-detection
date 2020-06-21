@@ -7,7 +7,9 @@ electro-conductivity{ec}. EC correlates and tells the rate of salt presence.
      This project mainly focuses on finding and predicting the fertility of soil based on major components 
 like nitrogen(N), phosphorous(P), potassium(K), ph and electro-conductivity(ec). 
      Here we use decision-tree and randomforest(classification & regression), confusion matrix algorithms
-to display the result of test and train data. Histogrm and piechart are used to represent the components.
+to display the result of test and train data. Histogram and piechart are used to represent the components.
+     
+     
      
      
      
